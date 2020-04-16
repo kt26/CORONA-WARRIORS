@@ -220,6 +220,28 @@ textarea.input100 {
   padding: 14px 30px;
 }
 
+
+.custom-file-upload {
+    font-family: Montserrat-ExtraBold;
+    font-size: 15px;
+    text-align: center; 
+    display: inline-block;
+    font-family: Montserrat-Bold;  
+    padding: 6px 12px;  
+    cursor: pointer; 
+    background: #D3D3D3; 
+       
+} 
+
+
+input[type="file"] {  
+    display: none;  
+    
+}  
+
+
+
+
 /*---------------------------------------------*/
 .wrap-input100 {
   position: relative;
