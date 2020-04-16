@@ -373,11 +373,13 @@ textarea.input100 {
 
 @media (max-width: 768px) {
   .wrap-contact100 {
-    padding: 110px 80px 157px 80px;
+    padding: 120px 130px 157px 80px;
   }
 
   .contact100-pic {
-    display: none;
+    text-align: center;
+    display: block;
+    width: 100%;
   }
 
   .contact100-form {
@@ -387,7 +389,7 @@ textarea.input100 {
 
 @media (max-width: 576px) {
   .wrap-contact100 {
-    padding: 110px 15px 157px 15px;
+    padding: 0px 50px 50px 50px;
   }
 }
 
